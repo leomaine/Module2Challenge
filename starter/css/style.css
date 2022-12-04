@@ -23,4 +23,5 @@ p {
   margin: 0;
 }
 
-.gradphoto {border-radius: 8px;}
+.gradphoto {border-radius: 8px;
+margin: 20px;}
